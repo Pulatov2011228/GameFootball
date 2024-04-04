@@ -1,0 +1,173 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/f9/82/5e/f9825e22c9fa1c913f987f942ebb8155.jpg");
+    background-size: cover;
+} 
+.igr1 {
+    width: 350px;
+    padding: 15px;
+    border: 3px solid darkgreen;
+   background-image: url("https://w.forfun.com/fetch/c3/c39b7bb32af24173cd82dd2ff50d0867.jpeg");
+    color: darkgreen;
+    display: inline-block;
+    background-size: cover;
+    margin: 16px;
+} 
+
+img {
+    width: 100%;
+}
+.igr2 {
+    width: 350px;
+    padding: 15px;
+    border: 3px solid grey;
+    background-color: black;
+    color: rgb(250, 247, 247);
+    display: inline-block;
+    background-image: url("https://klike.net/uploads/posts/2023-01/1672548550_3-27.jpg");
+    background-size: cover;
+    margin: 16px;
+}
+img {
+    width: 100%;
+}
+a {
+    text-decoration: none;
+    background-color: rgb(2, 90, 32);
+    padding: 10px;
+    border-radius: 50px;
+}
+a:hover {
+    color: darkgreen;
+    background-color: rgb(133, 220, 20);
+}
+body {
+    background-color: rgb(8, 8, 68);
+}
+.igr3 {
+    width: 350px;
+    padding: 15px;
+    border: 3px solid yellow;
+    background-color: black;
+    color: black;
+    display: inline-block;
+    margin: 16px;
+    background-image: url("https://top-fon.com/uploads/posts/2023-02/1675262165_top-fon-com-p-fon-dlya-prezentatsii-futbolnii-170.jpg");
+    background-size: cover;
+}
+.igr4 {
+    width: 350px;
+    padding: 15px;
+    border: 3px solid grey;
+    background-color: black;
+    color:  rgb(131, 88, 125);
+    display: inline-block;
+    background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1612896893_113-p-krasnii-futbolnii-fon-188.jpg");
+    background-size: cover;
+    margin: 16px;
+}
+.igr5 {
+    width: 350px;
+    padding: 15px;
+    border: 3px solid red;
+    background-color: black;
+    color: blue;
+    display: inline-block;
+    background-image: url("https://www.mgpu.ru/wp-content/uploads/2018/10/futbol1.jpg");
+    background-size: cover;
+    margin: 16px;
+    }
+.igr6 {
+    width: 350px;
+    padding: 15px;
+    border: 3px solid red;
+    background-color: black;
+    color: yellowgreen;
+    display: inline-block;
+    background-image: url("https://top-fon.com/uploads/posts/2023-01/1674776078_top-fon-com-p-goluboi-sportivnii-fon-dlya-prezentatsii-125.jpg");
+    background-size: cover;
+    margin: 16px;
+}
+.fc24 {
+    border-style: dashed;
+    border-color: rgb(210, 42, 30);
+    color: white;
+    width: 900px;
+    margin-inline: auto;
+    padding: 50px;
+    border-width: 10px;
+}
+.fc23 {
+    background-image: url("https://images.wallpaperscraft.ru/image/single/futbolnyj_miach_miach_futbol_152418_3840x2400.jpg");
+    background-size: cover;
+}
+.back {
+    color: red;
+}
+.h22 {
+    color: yellow;
+    text-align: center;
+}
+.h33 {
+    background-color: darkgray;
+}
+.eff3 {
+    background-image: url("https://artefact2010.files.wordpress.com/2018/11/img_6303.jpg");
+    background-size: cover;
+}
+.efc25 {
+    border-style: dashed;
+    border-color: rgb(210, 42, 30);
+    color: white;
+    width: 900px;
+    margin-inline: auto;
+    padding: 50px;
+    border-width: 10px;
+}
+.dls3 {
+    border-style: dashed;
+    border-color: rgb(210, 42, 30);
+    color: white;
+    width: 900px;
+    margin-inline: auto;
+    padding: 50px;
+    border-width: 10px;
+}
+.h44 {
+    background-color: black;
+}
+.eff7 {
+    border-style: dashed;
+    border-color: rgb(210, 42, 30);
+    color: white;
+    width: 900px;
+    margin-inline: auto;
+    padding: 50px;
+    border-width: 10px;
+    background-image: url("https://cutewallpaper.org/21/adidas-soccer-wallpaper/75-Soccer-Nike-Wallpapers-on-WallpaperPlay.jpg");
+    background-size: cover;
+}
+.h39 {
+    background-color: red;
+}
+.efot {
+    background-image: url("https://www.azerisport.com/images/articles/2012/06/12/10786.jpg");
+    background-size: cover;
+}
+.h99 {
+    background-color: yellowgreen;
+}
+.efc210 {
+    border-style: dashed;
+    border-color: rgb(210, 42, 30);
+    color: white;
+    width: 900px;
+    margin-inline: auto;
+    padding: 50px;
+    border-width: 10px;
+    background-image: url("https://celes.club/uploads/posts/2022-11/1667336814_8-celes-club-p-fon-dlya-prezentatsii-futbol-vkontakte-9.jpg");
+    background-size: cover;
+}
+.eff00 {
+    background-image: url("https://celes.club/uploads/posts/2022-11/1667336814_8-celes-club-p-fon-dlya-prezentatsii-futbol-vkontakte-9.jpg");
+    background-size: cover;
+}
